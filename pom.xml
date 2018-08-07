@@ -9,8 +9,6 @@
     <version>1.0-SNAPSHOT</version>
 
     <build>
-        <finalName>SpringMVCBasic</finalName>
-        <!-- 添加mybatis-generator-maven-plugin插件 -->
         <plugins>
             <plugin>
                 <groupId>org.mybatis.generator</groupId>
