@@ -1,0 +1,2 @@
+# MybatisGenerator
+以Maven插件的方式构建的MyBatis逆向工程
