@@ -2,3 +2,4 @@
 target/
 *.iml
 src/main/java/
+src/main/resources/generator.properties
